@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"map.json"
+         "target":"..\/workadventure\/maps\/FloorYS\/map.json"
         }
     },
  "height":51,
@@ -273,7 +273,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"..\/workadventure\/maps\/FloorYS\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1025,7 +1025,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"..\/workadventure\/maps\/FloorYS\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1038,7 +1038,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"walls2.png",
+         "image":"..\/workadventure\/maps\/FloorYS\/walls2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1403,7 +1403,7 @@
         {
          "columns":10,
          "firstgid":577,
-         "image":"desks.png",
+         "image":"..\/workadventure\/maps\/FloorYS\/desks.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -1795,7 +1795,7 @@
         {
          "columns":2,
          "firstgid":687,
-         "image":"logotcm.png",
+         "image":"..\/workadventure\/maps\/FloorYS\/logotcm.png",
          "imageheight":32,
          "imagewidth":64,
          "margin":0,
@@ -1808,7 +1808,7 @@
         {
          "columns":8,
          "firstgid":689,
-         "image":"signages.png",
+         "image":"..\/workadventure\/maps\/FloorYS\/signages.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
@@ -2038,7 +2038,7 @@
         {
          "columns":8,
          "firstgid":737,
-         "image":"xmas.png",
+         "image":"..\/workadventure\/maps\/FloorYS\/xmas.png",
          "imageheight":384,
          "imagewidth":256,
          "margin":0,
