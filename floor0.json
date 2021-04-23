@@ -107,6 +107,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{\"DEFAULT_BACKGROUND\":\"#fe462c\"}"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"tcm-chillzone-cafe"
@@ -115,6 +120,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to join meeting"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -159,7 +169,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
